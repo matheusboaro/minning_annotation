@@ -1,2 +1,2 @@
-# minning_annotation
-egal and illegal mining markings in the Tapajós Basin region of the Amazon rainforest in the state of Pará in Brazil. These markings were performed based on satellite imagery from the year 2014.  These areas were identified manually, using information from the Amazon Network of Georeferenced Socio-environmental Information (RAISG) and the Brazilian Mining Geographic Information System (RAISG).
+# Satellite Image Segmentation of Gold ExplorationAreas in the Amazon Rainforest Using U-Net (DATASET ANNOTATION)
+Legal and illegal mining markings in the Tapajós Basin region of the Amazon rainforest in the state of Pará in Brazil. These markings were performed based on satellite imagery from the year 2014.  These areas were identified manually, using information from the Amazon Network of Georeferenced Socio-environmental Information (RAISG) and the Brazilian Mining Geographic Information System (RAISG).
